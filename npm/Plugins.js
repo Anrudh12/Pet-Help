@@ -6,7 +6,7 @@ const Plugins = [
     from: 'node_modules/jquery/dist',
     to: 'plugins/jquery'
   },
-  // Popper
+  
   {
     from: 'node_modules/popper.js/dist',
     to: 'plugins/popper'
