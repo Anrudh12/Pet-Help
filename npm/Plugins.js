@@ -1,7 +1,7 @@
 'use strict'
 
 const Plugins = [
-  // jQuery
+  
   {
     from: 'node_modules/jquery/dist',
     to: 'plugins/jquery'
