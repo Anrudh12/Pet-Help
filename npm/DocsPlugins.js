@@ -1,7 +1,7 @@
 'use strict'
 
 const Plugins = [
-  // AdminLTE Dist
+  // AdminLTE 
   {
     from: 'dist/css/',
     to: 'docs/assets/css/'
