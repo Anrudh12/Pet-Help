@@ -7,8 +7,7 @@ const DBProductsController = {
 
     
     create: function (req, res) {
-        //db.Product.findAll()
-           // .then(function (products) {
+        
                 res.render("./products/productCreate")
 
     },
