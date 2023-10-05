@@ -11,7 +11,7 @@ const Plugins = [
     from: 'node_modules/popper.js/dist',
     to: 'plugins/popper'
   },
-  // Bootstrap
+
   {
     from: 'node_modules/bootstrap/dist/js',
     to: 'plugins/bootstrap/js'
