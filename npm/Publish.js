@@ -33,7 +33,7 @@ class Publish {
     // Publish files
     Plugins.forEach(module => {
       const fseOptions = {
-        // Skip copying dot files
+   
         filter(src) {
           return !path.basename(src).startsWith('.')
         }
