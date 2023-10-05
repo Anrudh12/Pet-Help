@@ -30,7 +30,7 @@ class Publish {
   }
 
   run() {
-    // Publish files
+   
     Plugins.forEach(module => {
       try {
         fse.copySync(module.from, module.to, {
