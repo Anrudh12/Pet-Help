@@ -17,8 +17,7 @@ childProcess.exec('java -version', (error, stdout, stderr) => {
 
 
   const ignores = [
-    // "autocomplete" is included in <button> and checkboxes and radio <input>s due to
-    // Firefox's non-standard autocomplete behavior - see https://bugzilla.mozilla.org/show_bug.cgi?id=654072
+  
     'Attribute “autocomplete” is only allowed when the input type is.*'
   ].join('|')
 
