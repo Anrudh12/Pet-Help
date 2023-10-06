@@ -35,7 +35,6 @@ childProcess.exec('java -version', (error, stdout, stderr) => {
     'pages/'
   ]
 
-  // For the 32-bit Java we need to pass `-Xss512k`
   if (is32bitJava) {
     args.splice(0, 0, '-Xss512k')
   }
