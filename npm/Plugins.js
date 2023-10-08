@@ -16,7 +16,7 @@ const Plugins = [
     from: 'node_modules/bootstrap/dist/js',
     to: 'plugins/bootstrap/js'
   },
-  // Font Awesome
+
   {
     from: 'node_modules/@fortawesome/fontawesome-free/css',
     to: 'plugins/fontawesome-free/css'
