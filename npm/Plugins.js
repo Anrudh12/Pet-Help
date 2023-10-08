@@ -67,7 +67,7 @@ const Plugins = [
     from: 'node_modules/bootstrap-slider/dist/css',
     to: 'plugins/bootstrap-slider/css'
   },
-  // Bootstrap Colorpicker
+  
   {
     from: 'node_modules/bootstrap-colorpicker/dist/js',
     to: 'plugins/bootstrap-colorpicker/js'
