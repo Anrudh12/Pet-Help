@@ -53,7 +53,7 @@ const Plugins = [
     from: 'node_modules/flot/source/',
     to: 'plugins/flot/plugins'
   },
-  // Summernote
+
   {
     from: 'node_modules/summernote/dist/',
     to: 'plugins/summernote'
