@@ -1,6 +1,4 @@
-<?php
-  // require_once('sess_auth.php');
-  
+<?php>
 ?>
 <head>
     <meta charset="utf-8">
