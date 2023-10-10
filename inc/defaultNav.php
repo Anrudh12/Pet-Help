@@ -1,4 +1,4 @@
-<!-- Navbar -->
+
   <nav class="main-header navbar navbar-expand-md navbar-light navbar-white">
     <div class="container">
       <a href="<?php echo base_url ?>index3.html" class="navbar-brand">
