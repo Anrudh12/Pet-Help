@@ -101,7 +101,7 @@
       if (this._settings.loadOnInit) {
         this.load();
       }
-    } // Static
+    } 
     ;
 
     CardRefresh._jQueryInterface = function _jQueryInterface(config) {
