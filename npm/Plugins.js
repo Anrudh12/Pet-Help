@@ -25,7 +25,7 @@ const Plugins = [
     from: 'node_modules/@fortawesome/fontawesome-free/webfonts',
     to: 'plugins/fontawesome-free/webfonts'
   },
-  // overlayScrollbars
+ 
   {
     from: 'node_modules/overlayscrollbars/js',
     to: 'plugins/overlayScrollbars/js'
