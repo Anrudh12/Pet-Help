@@ -23,9 +23,7 @@
   --black: hsl(0, 0%, 0%);
   --white: hsl(0, 0%, 100%);
 
-  /**
-   * typography
-   */
+ 
 
   --ff-roboto: 'Roboto', sans-serif;
   --ff-mr_de_haviland: 'Mr De Haviland', cursive;
