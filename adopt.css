@@ -47,9 +47,7 @@
 
   --shadow: 0 0 2px hsla(0, 0%, 0%, 0.2);
 
-  /**
-   * transition
-   */
+
 
   --transition-1: 0.25s ease;
   --transition-2: 0.5s ease;
