@@ -256,12 +256,6 @@ body.active { overflow: hidden; }
 
 
 
-
-
-/*-----------------------------------*\
-  #SIDEBAR
-\*-----------------------------------*/
-
 .sidebar {
   position: fixed;
   top: 0;
