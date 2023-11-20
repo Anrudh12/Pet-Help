@@ -37,7 +37,7 @@ class Login extends DBConnection {
 			redirect('admin/login.php');
 		}
 	}
-	function login_user(){
+	//function login_user(){
 		extract($_POST);
 		$qry = $this->conn->query("SELECT * from clients where email = '$email' and password = md5('$password') ");
 		if($qry->num_rows > 0){
