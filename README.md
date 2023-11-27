@@ -11,3 +11,4 @@ Admin Panel -->Login/Logout---Manage Category List---Manage Sub Category List--M
 Store/Public Side-->Login Modal--Registration Modal--Home Page--Search Product--View Product--Browse Product Images--Shopping Cart--Place Order--Order List--Manage Account
 
 
+
