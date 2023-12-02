@@ -14,14 +14,7 @@ SET time_zone = "+00:00";
 
 /*!40101 SET NAMES utf8mb4 */;
 
---
--- Database: `pet_shop_db`
---
 
--- --------------------------------------------------------
-
---
--- Table structure for table `cart`
 --
 
 CREATE TABLE `cart` (
